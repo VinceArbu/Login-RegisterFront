@@ -7,4 +7,10 @@ JavaScript is the foundation of our project, serving as the backbone for the web
 
 Moreover, we utilize the fetch API method to gather data from various sources, allowing us to dynamically populate news sections on the website. This approach ensures a constantly updated and engaging user experience, while also establishing scalable and efficient data management within our social media project.
 
-<br><h3>**Where could the concepts discussed in class be seen in your website?** </h3> 
+<br><h3>**What was your inspiration for the design of the website?** </h3> 
+
+Our website design is a fusion of distinctive elements, drawing inspiration from three iconic brands - Discord, Twitter and Apple. We prioritize a clean and intuitive interface, inspired by Discord, to ensure an uncomplicated and user-friendly experience.
+
+The neutral color background, similar to the classic Twitter layout, provides a calming backdrop, fostering readability and it is visually appealing. Additionally, we adopt Apple's approach to simplicity and concise features, focusing on essential functionalities without unnecessary complexities.
+
+This blend of design inspirations reflects our commitment to creating a visually appealing, user-centric, and functionally efficient website for our users.
